@@ -13,6 +13,7 @@
 * [Remuneração Baseada em Badges](remuneracao-baseada-em-badges.md)
 * [Revisão Tática](revisao-tatica.md)
 * [Sessão de Feedback em Círculo](sessao-de-feedback-em-circulo.md)
+* [Ciclo de Silêncio](ciclo-de-silencio.md)
 
 ## Ainda não mapeados
 
